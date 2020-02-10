@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+
+.bg-black {
+    color:#fff;
+    background: #000;
+  }
+
+  @media (min-width:1499px) {
+    .port-item {
+      padding: 3em !important;
+    }
+  }
